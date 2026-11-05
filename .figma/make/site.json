@@ -1,0 +1,10 @@
+{
+  "description": "A responsive website that brings a Figma design to life with working navigation, interactive image slideshows, popups, and mobile-friendly menus.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
